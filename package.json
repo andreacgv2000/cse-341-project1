@@ -19,9 +19,12 @@
   },
   "homepage": "https://github.com/andreacgv2000/cse-341-project1#readme",
   "dependencies": {
+    "body-parser": "^2.2.2",
     "dotenv": "^17.3.1",
     "express": "^5.2.1",
     "mongo": "^0.1.0",
-    "mongodb": "^7.1.0"
+    "mongodb": "^7.1.0",
+    "swagger-autogen": "^2.23.7",
+    "swagger-ui-express": "^5.0.1"
   }
 }
